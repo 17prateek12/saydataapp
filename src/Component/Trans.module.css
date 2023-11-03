@@ -1,0 +1,11 @@
+.vh15 {
+    min-height: 10vh; 
+  }
+
+  .box{
+    border-radius: 0.375rem;
+    border-color: rgb(65, 62, 62);
+    border: 1px solid;
+    margin: auto;
+
+}
