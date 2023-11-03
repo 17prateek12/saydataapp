@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saydataapp/static/css/main.0f9e51d8.css",
+    "main.js": "/saydataapp/static/js/main.07626285.js",
+    "static/js/787.c5a5c74c.chunk.js": "/saydataapp/static/js/787.c5a5c74c.chunk.js",
+    "index.html": "/saydataapp/index.html",
+    "main.0f9e51d8.css.map": "/saydataapp/static/css/main.0f9e51d8.css.map",
+    "main.07626285.js.map": "/saydataapp/static/js/main.07626285.js.map",
+    "787.c5a5c74c.chunk.js.map": "/saydataapp/static/js/787.c5a5c74c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9e51d8.css",
+    "static/js/main.07626285.js"
+  ]
+}
